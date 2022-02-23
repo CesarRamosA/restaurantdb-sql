@@ -1,6 +1,6 @@
 # 'Restaurant' database 
 
-Using the 'restaurant' database, different SQL commands are put into practice. 
+Using the 'restaurant' database, a considerable amount SQL commands are put into practice. 
 This script was made just for practice purpose and is seen as a guide for the creator.
 
 Commands and guide is from sololearn MySQL course. Also other commands are being used.
